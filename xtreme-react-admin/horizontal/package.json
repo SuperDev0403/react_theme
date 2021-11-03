@@ -52,7 +52,7 @@
     "reactstrap": "^7.1.0",
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
-    "validator": "^10.10.0"
+    "validator": "^13.7.0"
   },
   "browserslist": [
     ">0.2%",
